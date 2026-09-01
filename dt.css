@@ -1,0 +1,23 @@
+.h1{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.buy{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.text{
+    text-align: center;
+    font-size: large;
+}
+.bg{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJiyF35rx1CUFEmY1c4LHizRhjUkbze5-Bw_ZQfw7iQ&s=10");
+background-repeat: no-repeat;
+}
